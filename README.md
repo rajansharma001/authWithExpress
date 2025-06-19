@@ -51,7 +51,7 @@ It supports role-based authorization with protected routes for normal users and 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/rajansharma001/authWithExpress.git
 cd your-repo-name
 ```
 
